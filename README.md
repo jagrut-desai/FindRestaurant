@@ -1,6 +1,6 @@
 # FindRestaurant 
 
-Getting it running 
+Getting it running \n
 Step 1: Download/Clone the repo from github. 
 Step 2: Import the project using build.gradle file from Android Studio Import Project Window. 
 Step 3: Download or sync any dependency that gradle will guide you through. 
