@@ -14,8 +14,8 @@ import retrofit2.converter.gson.GsonConverterFactory;
  */
 public class RetrofitClient {
     public static final String BASE_URL = "https://maps.googleapis.com/maps/api/place/";
-//     public static final String API_KEY = "AIzaSyBt08WxEypilTzyi2fQBm9OBIgzSt3uk2g";
-    public static final String API_KEY = "AIzaSyDqNkkt0w0KxLkH38clUTK_j5mYCXEgV-c";
+    public static final String API_KEY = "AIzaSyBt08WxEypilTzyi2fQBm9OBIgzSt3uk2g";
+//     public static final String API_KEY = "AIzaSyDqNkkt0w0KxLkH38clUTK_j5mYCXEgV-c";
 
     public static Retrofit retrofit = null;
 
