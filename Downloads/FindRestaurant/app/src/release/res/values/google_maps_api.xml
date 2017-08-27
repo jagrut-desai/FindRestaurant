@@ -1,0 +1,9 @@
+<resources>
+    <!--
+        given api keys are only 1000 request per 24 hours so you have to switch betweem two
+        apikey = AIzaSyBt08WxEypilTzyi2fQBm9OBIgzSt3uk2g
+        apikey = AIzaSyDqNkkt0w0KxLkH38clUTK_j5mYCXEgV-c
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBt08WxEypilTzyi2fQBm9OBIgzSt3uk2g</string>
+
+</resources>

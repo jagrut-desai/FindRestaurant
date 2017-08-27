@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Find Restaurants</string>
+    <string name="title_activity_restaurant_maps">Restaurants</string>
+    <string name="title_location_permission">Provide Your Location</string>
+    <string name="text_location_permission">We need your location to search nearby restaurants.</string>
+    <string name="ok">OK</string>
+    <string name="turn_on_gps">Turn on GPS</string>
+</resources>
